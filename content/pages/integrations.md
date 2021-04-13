@@ -1,7 +1,7 @@
 ---
 template: ComponentsPage
-slug: components
-title: Components Page
+slug: integrations
+title: Integrations Page
 featuredImage: https://ucarecdn.com/22154b3c-a5ca-44e8-b88a-d08cfbd76233/
 subtitle: This is the components page subtitle.
 section1: >-
