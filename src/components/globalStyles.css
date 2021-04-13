@@ -33,8 +33,10 @@ html {
   background: var(--lightGrey);
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic:wght@400&display=swap");
+
 body {
-  font-family: var(--font-system);
+  font-family: 'Didact Gothic', var(--font-system);
   min-height: 100%;
   position: relative;
   background: white;
