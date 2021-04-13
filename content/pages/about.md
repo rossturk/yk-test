@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: about
 title: About OpenLineage
-featuredImage: images/banner.jpeg
+featuredImage: ../images/banner.jpeg
 subtitle: The default stack for all things data lineage
 meta:
   description: This is a meta description.

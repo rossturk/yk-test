@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: getting-started
 title: Getting Started
-featuredImage: images/banner.jpeg
+featuredImage: ../images/banner.jpeg
 subtitle: Start by setting up Marquez, the OpenLineage metadata repository
 meta:
   description: This is a meta description.
